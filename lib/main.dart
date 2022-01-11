@@ -14,7 +14,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   
-  List _lista = ['Teste1','Teste2','Teste3'];
+  List _lista = ['Teste1','Teste2','Teste3', 'Teste4'];
   
   @override
   Widget build(BuildContext context) {
